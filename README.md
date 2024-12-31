@@ -14,7 +14,7 @@ This repository showcases skills, shares projects, and tracks my progress in Dat
 
 - [Education](https://github.com/OdessaZ/PortfolioProjects?tab=readme-ov-file#education)
 
-- [Contact](https://github.com/OdessaZ/PortfolioProjects?tab=readme-ov-file#contacts)
+- [Contact](https://github.com/OdessaZ/PortfolioProjects?tab=readme-ov-file#contact)
 
 ## Portfolio Projects
 In this section, I will list my data analysis projects and briefly describe each one.
