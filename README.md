@@ -10,7 +10,7 @@ This repository showcases skills, shares projects, and tracks my progress in Dat
 - [Portfolio Projects](https://github.com/OdessaZ/PortfolioProjects?tab=readme-ov-file#portfolio-projects)
 
   - Python
-      [Examining Key Determinants of Movie Success](https://github.com/OdessaZ/PortfolioProjects?tab=readme-ov-file#examining-key-determinants-of-movie-success)
+      - [Examining Key Determinants of Movie Success](https://github.com/OdessaZ/PortfolioProjects?tab=readme-ov-file#examining-key-determinants-of-movie-success)
 
 - [Education](https://github.com/OdessaZ/PortfolioProjects?tab=readme-ov-file#education)
 
