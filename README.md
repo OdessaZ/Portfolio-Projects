@@ -9,9 +9,11 @@ In this section, I will list my data analysis projects and briefly describe each
 
 ### Examining Key Determinants of Movie Success
 
-#### Code: [Examining Key Determinants of Movie Success](https://github.com/OdessaZ/PortfolioProjects/blob/main/Python%20Movie%20Correlation.ipynb)
+#### Code: 
+[Examining Key Determinants of Movie Success](https://github.com/OdessaZ/PortfolioProjects/blob/main/Python%20Movie%20Correlation.ipynb)
 
 #### Goal: 
+To determine what factors contribute the most to a movie's success.
 
 ## Education
 Toronto Metropolitan University: Bachelor's Degree, Mathematics and Its Applications, 2022 - 2026
