@@ -25,14 +25,20 @@ In this section, I will list my data analysis projects and briefly describe each
 
 **Goal**: To determine what factors contribute the most to a movie's success.
 
+**Description**:
+
 **Skills**: Data cleaning, Data analysis, Correlation matrices, Hypothesis Testing, Data Visualization.
 
 **Technology**: Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+
+**Results**: Using Python functions, the analysis revealed that votes and budget have the highest correlation with gross earnings.
 
 ### 2. Finance Tracker
 **Code**: [Finance Tracker](https://github.com/OdessaZ/PortfolioProjects/blob/main/Expense_tracker.py)
 
 **Goal**: Get expense data from a user (via the terminal), save and categorize each expense into an Excel spreadsheet that is automatically created and updated.
+
+**Description**: This project is a simple finance tracker designed to help users view their finances effectively. It allows users to record, and categorize their expenses while staying within their budget. This project demonstrates skills in Python programming, and data handling while showcasing a practical approach to personal finance management. It highlights the potential of coding to simplify everyday tasks and improve productivity.
 
 **Skills**: Loops, Dictionaries, Variables and Data Types, Operators, Lists, User Input, Functions, Classes, Tuples and Sets.
 
