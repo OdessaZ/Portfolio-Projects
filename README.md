@@ -53,7 +53,7 @@ In this section, I will list my data analysis projects and briefly describe each
 
 **Description**: This project demonstrates the creation of an interactive, data-driven dashboard using Microsoft Excel. It includes the integration of multiple pivot charts, slicers for filtering key demographic data, and various visual enhancements to create a user-friendly interface. The dashboard allows for detailed analysis of various data fields, such as marital status, education level, and region, with the ability to slice and dice the information for deeper insights. This project showcases proficiency in Excel data visualization and manipulation, ideal for showcasing in a portfolio to demonstrate Excel skills.
 
-**Skills**: Data visualization, Pivot Tables, Slicers, Report Connections, Filtering and Analyzing Data Based on Multiple Variables.
+**Skills**: Data Visualization, Data Cleaning, Pivot Tables, Slicers, Report Connections, and Filtering and Analyzing Data Based on Multiple Variables.
 
 **Technology**: Microsoft Excel
 
