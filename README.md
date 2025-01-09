@@ -12,8 +12,12 @@ This repository showcases my skills, shares projects, and tracks my progress in 
   - Python
       - [Examining Key Determinants of Movie Success](https://github.com/OdessaZ/PortfolioProjects?tab=readme-ov-file#examining-key-determinants-of-movie-success)
       - [Finance Tracker](https://github.com/OdessaZ/PortfolioProjects/tree/main#2-finance-tracker)
+      - [Linear Regression with Python]
   - Microsoft Excel
       - [Bike Sales Data Dashboard: Interactive Excel Analysis](https://github.com/OdessaZ/PortfolioProjects#3-bike-sales-data-dashboard-interactive-excel-analysis)
+  - R Studio
+  - SQL
+  - Tableau
 
 - [Education](https://github.com/OdessaZ/PortfolioProjects?tab=readme-ov-file#education)
 
@@ -58,6 +62,19 @@ In this section, I will list my data analysis projects and briefly describe each
 **Technology**: Microsoft Excel
 
 **Results**: An interactive and visually appealing dashboard that allows users to explore and analyze key data insights, such as demographic trends, purchasing behavior, and regional patterns, through the use of pivot tables and slicers in Excel. The dashboard enables dynamic filtering and comparison across various variables, offering valuable insights for decision-making.
+
+### 4. Linear Regression with Python
+**Code**: [Linear Regression with Python](https://github.com/OdessaZ/PortfolioProjects/blob/main/Linear%20Regression%20with%20Python.ipynb)
+
+**Goal**: To understand and implement linear regression using Python, applying statistical learning concepts to analyze data and make predictions. It involved preprocessing data, building and evaluating a regression model, and visualizing results to gain insights.
+
+**Description**: This project focuses on implementing linear regression in Python to explore the relationship between variables and make predictions. It begins with data preprocessing using libraries like Pandas and NumPy, followed by building and training a regression model with scikit-learn. The project emphasizes evaluating model performance through metrics such as R-squared and Mean Squared Error, ensuring accurate predictions. Data visualizations created with Matplotlib and Seaborn provide insights into trends and the model's fit. This project demonstrates practical skills in data analysis, statistical modeling, and machine learning applications.
+
+**Skills**: Data Visualization, Statistical Modeling, Model Development and Evaluation, and Scikit-learn.
+
+**Technology**: Python
+
+**Results**: The linear regression model showed a strong relationship between the variables, making accurate predictions possible. The R-squared value confirmed the model explained the data well, and residual analysis showed it met key assumptions. This proved the model worked effectively for the dataset.
 
 ## Education
 Toronto Metropolitan University: Bachelor's Degree, Mathematics and Its Applications, 2022 - 2026
