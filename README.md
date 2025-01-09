@@ -12,6 +12,8 @@ This repository showcases my skills, shares projects, and tracks my progress in 
   - Python
       - [Examining Key Determinants of Movie Success](https://github.com/OdessaZ/PortfolioProjects?tab=readme-ov-file#examining-key-determinants-of-movie-success)
       - [Finance Tracker](https://github.com/OdessaZ/PortfolioProjects/tree/main#2-finance-tracker)
+  - Microsoft Excel
+      - [Bike Sales Data Dashboard: Interactive Excel Analysis](https://github.com/OdessaZ/PortfolioProjects#3-bike-sales-data-dashboard-interactive-excel-analysis)
 
 - [Education](https://github.com/OdessaZ/PortfolioProjects?tab=readme-ov-file#education)
 
