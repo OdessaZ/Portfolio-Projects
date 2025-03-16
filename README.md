@@ -18,7 +18,7 @@ This repository showcases my skills, shares projects, and tracks my progress in 
   - R Studio
   - SQL
   - Tableau
-      - [HR Dashboard](https://github.com/OdessaZ/PortfolioProjects/blob/main/HR%20Dashboard%20-%20Tableau%20Project.twbx)
+      - [HR Dashboard]([https://github.com/OdessaZ/PortfolioProjects/blob/main/HR%20Dashboard%20-%20Tableau%20Project.twbx](https://github.com/OdessaZ/PortfolioProjects#5-hr-dashboard)
 
 - [Education](https://github.com/OdessaZ/PortfolioProjects?tab=readme-ov-file#education)
 
