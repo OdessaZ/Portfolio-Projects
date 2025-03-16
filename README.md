@@ -1,6 +1,6 @@
 # Data Analyst Portfolio Project Repository
 ## About Me:
-Hi!, I'm Odessa, a third-year Mathematics and Its Applications student at Toronto Metropolitan University.
+Hi! I'm Odessa, a third-year Mathematics and Its Applications student at Toronto Metropolitan University.
 
 This repository showcases my skills, shares projects, and tracks my progress in Data Analytics and Data science-related topics. I will update it as I create more projects!
 
@@ -18,6 +18,7 @@ This repository showcases my skills, shares projects, and tracks my progress in 
   - R Studio
   - SQL
   - Tableau
+      - [HR Dashboard](https://github.com/OdessaZ/PortfolioProjects/blob/main/HR%20Dashboard%20-%20Tableau%20Project.twbx)
 
 - [Education](https://github.com/OdessaZ/PortfolioProjects?tab=readme-ov-file#education)
 
@@ -31,7 +32,7 @@ In this section, I will list my data analysis projects and briefly describe each
 
 **Goal**: To determine what factors contribute the most to a movie's success.
 
-**Description**: This project explores the correlation between various movie features (e.g., budget, revenue, rating) using Python. By analyzing a dataset of movies, the project applies data wrangling techniques, correlation analysis, and data visualization to uncover patterns and relationships between different movie attributes. The goal is to better understand how certain factors impact movie success, providing insights that could be valuable for filmmakers, marketers, and data enthusiasts.
+**Description**: This project explores the correlation between various movie features (e.g., budget, revenue, rating) using Python. By analyzing a dataset of movies, the project applies data-wrangling techniques, correlation analysis, and data visualization to uncover patterns and relationships between different movie attributes. The goal is to better understand how certain factors impact movie success, providing insights that could be valuable for filmmakers, marketers, and data enthusiasts.
 
 **Skills**: Data cleaning, Data analysis, Correlation matrices, Hypothesis Testing, Data Visualization.
 
@@ -42,9 +43,9 @@ In this section, I will list my data analysis projects and briefly describe each
 ### 2. Finance Tracker
 **Code**: [Finance Tracker](https://github.com/OdessaZ/PortfolioProjects/blob/main/Expense_tracker.py)
 
-**Goal**: Get expense data from a user (via the terminal), save and categorize each expense into an Excel spreadsheet that is automatically created and updated.
+**Goal**: Get expense data from a user (via the terminal), and save and categorize each expense into an Excel spreadsheet that is automatically created and updated.
 
-**Description**: This project is a simple finance tracker designed to help users view their finances effectively. It allows users to record, and categorize their expenses while staying within their budget. This project demonstrates skills in Python programming, and data handling while showcasing a practical approach to personal finance management. It highlights the potential of coding to simplify everyday tasks and improve productivity.
+**Description**: This project is a simple finance tracker designed to help users view their finances effectively. It allows users to record and categorize their expenses while staying within their budget. This project demonstrates skills in Python programming and data handling while showcasing a practical approach to personal finance management. It highlights the potential of coding to simplify everyday tasks and improve productivity.
 
 **Skills**: Loops, Dictionaries, Variables and Data Types, Operators, Lists, User Input, Functions, Classes, Tuples and Sets.
 
@@ -61,20 +62,35 @@ In this section, I will list my data analysis projects and briefly describe each
 
 **Technology**: Microsoft Excel
 
-**Results**: An interactive and visually appealing dashboard that allows users to explore and analyze key data insights, such as demographic trends, purchasing behavior, and regional patterns, through the use of pivot tables and slicers in Excel. The dashboard enables dynamic filtering and comparison across various variables, offering valuable insights for decision-making.
+**Results**: An interactive and visually appealing dashboard that allows users to explore and analyze key data insights, such as demographic trends, purchasing behavior, and regional patterns, using pivot tables and slicers in Excel. The dashboard enables dynamic filtering and comparison across various variables, offering valuable insights for decision-making.
 
 ### 4. Linear Regression with Python
 **Code**: [Linear Regression with Python](https://github.com/OdessaZ/PortfolioProjects/blob/main/Linear%20Regression%20with%20Python.ipynb)
 
 **Goal**: To understand and implement linear regression using Python, applying statistical learning concepts to analyze data and make predictions. It involved preprocessing data, building and evaluating a regression model, and visualizing results to gain insights.
 
-**Description**: This project focuses on implementing linear regression in Python to explore the relationship between variables and make predictions. It begins with data preprocessing using libraries like Pandas and NumPy, followed by building and training a regression model with scikit-learn. The project emphasizes evaluating model performance through metrics such as R-squared and Mean Squared Error, ensuring accurate predictions. Data visualizations created with Matplotlib and Seaborn provide insights into trends and the model's fit. This project demonstrates practical skills in data analysis, statistical modeling, and machine learning applications.
+**Description**: This project focuses on implementing linear regression in Python to explore the relationship between variables and make predictions. It begins with data preprocessing using libraries like Pandas and NumPy, then building and training a regression model with scikit-learn. The project emphasizes evaluating model performance through metrics such as R-squared and Mean Squared Error, ensuring accurate predictions. Data visualizations created with Matplotlib and Seaborn provide insights into trends and the model's fit. This project demonstrates practical skills in data analysis, statistical modeling, and machine learning applications.
 
 **Skills**: Data Visualization, Statistical Modeling, Model Development and Evaluation, and Scikit-learn.
 
 **Technology**: Python
 
-**Results**: The linear regression model showed a strong relationship between the variables, making accurate predictions possible. The R-squared value confirmed the model explained the data well, and residual analysis showed it met key assumptions. This proved the model worked effectively for the dataset.
+**Results**: The linear regression model showed a strong relationship between the variables, making accurate predictions possible. The R-squared value confirmed that the model explained the data well, and the residual analysis showed it met key assumptions. This proved that the model worked effectively for the dataset.
+
+### 5. HR Dashboard
+**Code**: [HR Dashboard](https://github.com/OdessaZ/PortfolioProjects/blob/main/HR%20Dashboard%20-%20Tableau%20Project.twbx)
+
+**Goal**:
+
+**Description**:
+
+**Skills**: Data Visualization, Data Collection, and Data Presentation
+
+**Technology**: Tableau
+
+
+## Certificates
+[Google Data Analytics Professional Certificate](https://coursera.org/share/b7690839c5dcd23ff5f7f26a751b28ed) February 2025
 
 ## Education
 Toronto Metropolitan University: Bachelor's Degree, Mathematics and Its Applications, 2022 - 2026
