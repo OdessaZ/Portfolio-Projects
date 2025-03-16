@@ -90,7 +90,7 @@ In this section, I will list my data analysis projects and briefly describe each
 
 
 ## Certificates
-[Google Data Analytics Professional Certificate](https://coursera.org/share/b7690839c5dcd23ff5f7f26a751b28ed) February 2025
+[Google Data Analytics Professional Certificate](https://coursera.org/share/b7690839c5dcd23ff5f7f26a751b28ed) - February 2025
 
 ## Education
 Toronto Metropolitan University: Bachelor's Degree, Mathematics and Its Applications, 2022 - 2026
