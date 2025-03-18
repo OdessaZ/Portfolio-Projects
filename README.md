@@ -19,6 +19,8 @@ This repository showcases my skills, shares projects, and tracks my progress in 
   - SQL
   - Tableau
       - [HR Dashboard](https://github.com/OdessaZ/PortfolioProjects#5-hr-dashboard)
+   
+- [Certificate(s)](https://github.com/OdessaZ/PortfolioProjects#certificates)
 
 - [Education](https://github.com/OdessaZ/PortfolioProjects?tab=readme-ov-file#education)
 
@@ -69,7 +71,7 @@ In this section, I will list my data analysis projects and briefly describe each
 
 **Goal**: To understand and implement linear regression using Python, applying statistical learning concepts to analyze data and make predictions. It involved preprocessing data, building and evaluating a regression model, and visualizing results to gain insights.
 
-**Description**: This project focuses on implementing linear regression in Python to explore the relationship between variables and make predictions. It begins with data preprocessing using libraries like Pandas and NumPy, then building and training a regression model with scikit-learn. The project emphasizes evaluating model performance through metrics such as R-squared and Mean Squared Error, ensuring accurate predictions. Data visualizations created with Matplotlib and Seaborn provide insights into trends and the model's fit. This project demonstrates practical skills in data analysis, statistical modeling, and machine learning applications.
+**Description**: This project focuses on implementing linear regression in Python to explore the relationship between variables and make predictions. It begins with data preprocessing using libraries like Pandas and NumPy, then building and training a regression model with scikit-learn. The project emphasizes evaluating model performance through metrics such as R-squared and Mean Squared Error, ensuring accurate predictions. Data visualizations created with Matplotlib and Seaborn provide insights into trends and the model's fit. This project demonstrates practical skills in data analysis, statistical modelling, and machine learning applications.
 
 **Skills**: Data Visualization, Statistical Modeling, Model Development and Evaluation, and Scikit-learn.
 
@@ -80,9 +82,9 @@ In this section, I will list my data analysis projects and briefly describe each
 ### 5. HR Dashboard
 **Code**: [HR Dashboard](https://github.com/OdessaZ/PortfolioProjects/blob/main/HR%20Dashboard%20-%20Tableau%20Project.twbx)
 
-**Goal**:
+**Goal**: This project aimed to create a comprehensive HR dashboard in Tableau that provides high-level insights and detailed employee records for in-depth analysis. The dashboard aims to offer HR managers a powerful tool for analyzing human resources data across three main sections: Overview, Demographics, and Income Analysis.
 
-**Description**:
+**Description**: This project involves the development of a comprehensive HR dashboard in Tableau designed to provide HR managers with a robust tool for analyzing human resources data. The dashboard is structured into three primary sections: Overview, Demographics, and Income Analysis. The Overview section offers insights into key HR metrics, such as employee counts and departmental distributions. The Demographics section delves into workforce composition, including gender ratios, age groups, and education levels. The Income Analysis section examines salary trends across different demographics. Additionally, the dashboard includes a detailed view of employee records that allows for filtering and in-depth analysis of individual employee data. This interactive platform enables HR managers to gain high-level insights and drill down into specific details, facilitating informed decision-making and strategic workforce management.
 
 **Skills**: Data Visualization, Data Collection, and Data Presentation
 
