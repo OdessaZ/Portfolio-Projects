@@ -16,7 +16,7 @@ This repository showcases my skills, shares projects, and tracks my progress in 
   - Microsoft Excel
       - [Bike Sales Data Dashboard: Interactive Excel Analysis](https://github.com/OdessaZ/PortfolioProjects#3-bike-sales-data-dashboard-interactive-excel-analysis)
   - R Studio
-      - [COVID-19 Mortality Analysis]
+      - [COVID-19 Mortality Analysis](https://github.com/OdessaZ/Portfolio-Projects#6-covid-19-mortality-analysis)
   - SQL
   - Tableau
       - [HR Dashboard](https://github.com/OdessaZ/PortfolioProjects#5-hr-dashboard)
