@@ -2,7 +2,7 @@
 ## About Me:
 Hi! I'm Odessa, a third-year Mathematics and Its Applications student at Toronto Metropolitan University.
 
-This repository showcases my skills, shares projects, and tracks my progress in Data Analytics and Data science-related topics. I will update it as I create more projects!
+This repository highlights my skills and interest in data analytics and data science. Here, you’ll find personal projects where I explore data, apply statistical methods, and build visualizations using tools like Python, R, SQL, Excel, and Tableau. I’ll continue updating this space as I grow and create more projects!
 
 ## Table of Contents
 - [About Me](https://github.com/OdessaZ/PortfolioProjects/tree/main?tab=readme-ov-file#about-me)
