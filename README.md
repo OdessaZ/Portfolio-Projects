@@ -16,6 +16,7 @@ This repository showcases my skills, shares projects, and tracks my progress in 
   - Microsoft Excel
       - [Bike Sales Data Dashboard: Interactive Excel Analysis](https://github.com/OdessaZ/PortfolioProjects#3-bike-sales-data-dashboard-interactive-excel-analysis)
   - R Studio
+      - [COVID-19 Mortality Analysis]
   - SQL
   - Tableau
       - [HR Dashboard](https://github.com/OdessaZ/PortfolioProjects#5-hr-dashboard)
@@ -90,6 +91,20 @@ In this section, I will list my data analysis projects and briefly describe each
 
 **Technology**: Tableau
 
+### 6. COVID-19 Mortality Analysis
+**Code**: [COVID-19 Mortality Analysis with R](https://github.com/OdessaZ/Portfolio-Projects/blob/main/script.R)
+
+**Data**: [COVID-19 Data](https://github.com/OdessaZ/Portfolio-Projects/blob/main/COVID19_line_list_data.csv)
+
+**Goal**: To explore the relationship between age, gender, and COVID-19 mortality using real-world data. The goal was to clean and prepare the data, perform statistical tests, and interpret the results to draw meaningful conclusions about health outcomes.
+
+**Description**: This project focuses on analyzing a COVID-19 dataset using R to identify patterns in mortality based on age and gender. The workflow includes importing and cleaning the data, creating a binary variable to represent the death outcomes, and conducting exploratory analysis. Statistical methods such as t-tests were used to compare death rates between age groups and genders, and assess whether the differences were statistically significant. Summary statistics and hypothesis testing were applied to interpret mortality trends and draw conclusions. This project highlights practical skills in data cleaning, hypothesis testing, and interpretation of real-world health data.
+
+**Skills**: Statistical Analysis, Data Cleaning, Hypothesis Testing, Data Interpretation
+
+**Technology**: R Studio
+
+**Results**: The analysis revealed that older individuals had a significantly higher death rate compared to younger individuals, and men had a higher mortality rate than women. The t-tests confirmed that both age and gender differences were statistically significant, supporting the need for targeted public health responses.
 
 ## Certificates
 [Google Data Analytics Professional Certificate](https://coursera.org/share/b7690839c5dcd23ff5f7f26a751b28ed) - February 2025
