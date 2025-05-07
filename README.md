@@ -13,6 +13,7 @@ This repository highlights my skills and interest in data analytics and data sci
       - [Examining Key Determinants of Movie Success](https://github.com/OdessaZ/PortfolioProjects?tab=readme-ov-file#examining-key-determinants-of-movie-success)
       - [Finance Tracker](https://github.com/OdessaZ/PortfolioProjects/tree/main#2-finance-tracker)
       - [Linear Regression with Python](https://github.com/OdessaZ/PortfolioProjects#4-linear-regression-with-python)
+      - [Best Selling Amazon Books Analysis](https://github.com/OdessaZ/Portfolio-Projects/blob/main/README.md#7-best-selling-amazon-books-analysis)
   - Microsoft Excel
       - [Bike Sales Data Dashboard: Interactive Excel Analysis](https://github.com/OdessaZ/PortfolioProjects#3-bike-sales-data-dashboard-interactive-excel-analysis)
   - R Studio
