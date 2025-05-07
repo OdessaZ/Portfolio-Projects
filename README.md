@@ -106,6 +106,21 @@ In this section, I will list my data analysis projects and briefly describe each
 
 **Results**: The analysis revealed that older individuals had a significantly higher death rate compared to younger individuals, and men had a higher mortality rate than women. The t-tests confirmed that both age and gender differences were statistically significant, supporting the need for targeted public health responses.
 
+### 7. Best Selling Amazon Books Analysis
+**Code**: [Amazon Best Sellers Analysis](https://github.com/OdessaZ/Portfolio-Projects/blob/main/Amazon-Best-Sellers-Analysis.ipynb)
+
+**Data**: [Bestsellers.csv](https://github.com/OdessaZ/Portfolio-Projects/blob/main/bestsellers.csv)
+
+**Goal**: To analyze trends in Amazon’s best-selling books using Python and pandas library. The goal was to clean and explore the dataset, uncover insights about authors, publishers, and book prices, and visualize patterns in book sales.
+
+**Description**: This project uses Python and pandas to analyze a dataset of the top 50 best-selling books on Amazon. The workflow involved importing and cleaning the data, identifying the most frequent authors and publishers, and exploring trends in price distribution and user ratings. The analysis included visualizing results to better understand which types of books dominate sales and how pricing and ratings relate to popularity. this project showcases essential data analysis techniques and provides insights into book sales trends on a major retail platform.
+
+**Skills**: Data Cleaning, Exploratory Data Analysis, Data Visualization, Trend Analysis
+
+**Technology**: Python, Pandas, Jupyter Notebook
+
+**Results**: The analysis revealed that certain authors appear more frequently among bestsellers, prices are generally clustered within a narrow range, and higher-rated books are not always the most expensive. these insights demonstrate consumer preferences and offer valuable perspectives for publishers and sellers.
+
 ## Certificates
 [Google Data Analytics Professional Certificate](https://coursera.org/share/b7690839c5dcd23ff5f7f26a751b28ed) - February 2025
 
